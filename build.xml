@@ -1,5 +1,5 @@
 <project name="Sample usage of Salesforce Ant tasks" default="deployCode" basedir="." xmlns:sf="antlib:com.salesforce">
-
+<taskdef uri="antlib:com.salesforce" classpath="/usr/share/ant/lib/ant-salesforce.jar"/>
 
     <!-- Shows deploying code & running tests for code in directory -->
     <target name="deployCode">
