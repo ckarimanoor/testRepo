@@ -9,6 +9,7 @@ public class HelloGitBranch1
     System.debug('Say HelloGitBranch1 first time 5');
     System.debug('Say HelloGitBranch1 first time 6');
      System.debug('Say HelloGitBranch1 first time 7');
+     System.debug('Say HelloGitBranch1 first time 8');
   }
 
 }
