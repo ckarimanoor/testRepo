@@ -1,3 +1,2 @@
-*.site filter=lfs diff=lfs merge=lfs -text
 
 *.site	 diff=astextplain
